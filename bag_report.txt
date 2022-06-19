@@ -1,0 +1,9 @@
+Summary: При нажатии на кнопку "Сохранить" введенные данные не сохраняются
+Project: Сайт Lego
+Component: Регистрация в личнном кабинете
+Version 1.1
+Severity: S2
+Priority: P1
+Status: Open
+ОС: Google Chrome 102.0.5005.115  64 бит
+Autor: Будай Андрей
